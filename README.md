@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+#### Bem vindos ao meu GitHub 
+
+
+- Lista 1
+- Lista 2
+    - Sublista
 <!--
 **thamiresgonncalves/thamiresgonncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
